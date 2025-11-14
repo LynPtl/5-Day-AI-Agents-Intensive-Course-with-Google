@@ -13,5 +13,5 @@ Complete Unit 5 - "Prototype to Production":
 *   Listen to the [summary podcast episode](/Day5/Whitepaper%20Companion%20Podcast%20-%20Prototype%20to%20Production%20-%20YouTube.mp4) for this unit.
 *   To complement the podcast, read the "[Prototype to Production](/Day5/Prototype%20to%20Production.pdf)" whitepaper.
 *   Complete these codelabs on Kaggle:
-    *   [Explore](/Day5/day-5a-A2A-protocol.ipynb) how to use A2A Protocol to have agents interact with each other.
-    *   [Optional] [Deploy](/Day5/day-5b-deploy-to-vertex-ai.ipynb) your agent to Agent Engine on Google Cloud.
+    *   [Explore](/Day5/day-5a-agent2agent-communication.ipynb) how to use A2A Protocol to have agents interact with each other.
+    *   [Optional] [Deploy](/Day5/day-5b-agent-deployment.ipynb) your agent to Agent Engine on Google Cloud.
